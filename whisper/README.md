@@ -1,8 +1,3 @@
-We ran a test to change the way we presented a feed of whispers to our users.
-How do you think the test performed ?
-
-
-
 Data:
 there are 2 data files:
 
