@@ -1,0 +1,10 @@
+$ git config --global user.name "Kevin Thomas"
+$ git config --global user.email 384b74@gmail.com 
+
+git remote add origin git@git.assembla.com:did.git
+git clone git@git.assembla.com:did.git
+git push origin master
+git push -u origin master
+
+https://git.assembla.com/did.git
+

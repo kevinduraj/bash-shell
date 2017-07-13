@@ -1,0 +1,9 @@
+http://beta.metacpan.org/module/App::perlbrew
+http://beta.metacpan.org/
+perlbrew list 
+perlbrew available
+perlbrew install perl-5.14.1
+
+#!/usr/bin/env perl
+cpan App::cpanminus
+cpanm Module::ScanDeps
